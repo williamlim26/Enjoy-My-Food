@@ -1,0 +1,59 @@
+.makerloginlogo{
+  display: block;
+  max-width: 150px;
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.makerlogin-body {
+  padding-top : 25px
+}
+
+.makerloginbackground{
+  background-image: url("/images/makerLogIn.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.eaterloginbackground{
+  background-image: url("/images/eaterLogIn.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+@media (min-width: 1200px) {
+  .mli-width{
+    padding-left : 400px;
+    padding-right : 400px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .mli-width{
+    padding-left : 320px;
+    padding-right : 320px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .mli-width{
+    padding-left : 240px;
+    padding-right : 240px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mli-width{
+    padding-left : 50px;
+    padding-right : 50px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .mli-width{
+    min-width: 575;
+    padding-left : 10px;
+    padding-right : 10px;
+  }
+}

@@ -1,0 +1,38 @@
+@media (min-width: 1128px) {
+  
+}
+
+@media (min-width: 744px) and (max-width: 1127.5px){
+  
+}
+
+@media (min-width: 0px) and (max-width: 743.5px){
+  
+}
+
+.signup-body{
+  padding-top: 60px;
+  
+}
+
+.makersignupdiv{
+  background-image: url("/images/slide11.png");
+  height: 100vh;
+  background-size: cover;
+  button{
+    position: absolute;
+    top: 30%;
+    left: 40%; 
+  }
+}
+
+.eatersignupdiv{
+  background-image: url("/images/slide10.png");
+  height: 100vh;
+  background-size: cover;
+  button{
+    position: absolute;
+    top: 30%;
+    left: 43%;
+  }
+}

@@ -1,0 +1,39 @@
+.malaysian-body{
+  padding-top: 60px;
+}
+
+@media (min-width: 1128px) {
+  .mb-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+  }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border:0;
+  }
+}
+
+@media (min-width: 744px) and (max-width: 1127.5px){
+  .mb-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important;
+  }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border:0;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 743.5px){
+  .mb-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border:0;
+  }
+}

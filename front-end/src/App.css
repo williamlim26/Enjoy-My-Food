@@ -1,0 +1,464 @@
+.help-body {
+  padding-top: 60px; }
+
+@media (min-width: 1128px) {
+  .hb_width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .hb_width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .hb_width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 0; } }
+
+.home-body {
+  padding-top: 60px; }
+
+.login-body {
+  padding-top: 0px; }
+
+.makerlogindiv {
+  background-image: url("/images/slide8.png");
+  height: 100vh;
+  background-size: cover; }
+  .makerlogindiv button {
+    position: absolute;
+    top: 30%;
+    left: 40%; }
+
+.eaterlogindiv {
+  background-image: url("/images/slide9.png");
+  height: 100vh;
+  background-size: cover; }
+  .eaterlogindiv button {
+    position: absolute;
+    top: 30%;
+    left: 43%; }
+
+.signup-body {
+  padding-top: 60px; }
+
+.makersignupdiv {
+  background-image: url("/images/slide11.png");
+  height: 100vh;
+  background-size: cover; }
+  .makersignupdiv button {
+    position: absolute;
+    top: 30%;
+    left: 40%; }
+
+.eatersignupdiv {
+  background-image: url("/images/slide10.png");
+  height: 100vh;
+  background-size: cover; }
+  .eatersignupdiv button {
+    position: absolute;
+    top: 30%;
+    left: 43%; }
+
+.all-body {
+  padding-top: 60px; }
+
+@media (min-width: 1128px) {
+  .ab-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .ab-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .ab-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 0; } }
+
+.malaysian-body {
+  padding-top: 60px; }
+
+@media (min-width: 1128px) {
+  .mb-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .mb-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .mb-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 0; } }
+
+.japanese-body {
+  padding-top: 60px; }
+
+@media (min-width: 1128px) {
+  .jb-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .jb-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .jb-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 0; } }
+
+.korean-body {
+  padding-top: 60px; }
+
+@media (min-width: 1128px) {
+  .kb-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+  .card {
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .kb-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+  .card {
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .kb-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+  .card {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 0; } }
+
+.makersignuplogo {
+  display: block;
+  max-width: 150px;
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.makersignupbackground {
+  background-image: url("/images/makerSignUp.jpg");
+  height: 100vh;
+  background-size: cover; }
+
+.eatersignupbackground {
+  background-image: url("/images/eaterSignUp.jpg");
+  opacity: 0.9;
+  height: 100vh;
+  background-size: cover; }
+
+.makersignup-body {
+  padding-top: 25px; }
+
+@media (min-width: 1200px) {
+  .msu-width {
+    padding-left: 400px;
+    padding-right: 400px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .msu-width {
+    padding-left: 320px;
+    padding-right: 320px; } }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .msu-width {
+    padding-left: 240px;
+    padding-right: 240px; } }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .msu-width {
+    padding-left: 50px;
+    padding-right: 50px; } }
+
+@media (max-width: 575.98px) {
+  .msu-width {
+    min-width: 575;
+    padding-left: 10px;
+    padding-right: 10px; } }
+
+.orderersignuplogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.makerloginlogo {
+  display: block;
+  max-width: 150px;
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.makerlogin-body {
+  padding-top: 25px; }
+
+.makerloginbackground {
+  background-image: url("/images/makerLogIn.jpg");
+  height: 100vh;
+  background-size: cover; }
+
+.eaterloginbackground {
+  background-image: url("/images/eaterLogIn.jpg");
+  height: 100vh;
+  background-size: cover; }
+
+@media (min-width: 1200px) {
+  .mli-width {
+    padding-left: 400px;
+    padding-right: 400px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .mli-width {
+    padding-left: 320px;
+    padding-right: 320px; } }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .mli-width {
+    padding-left: 240px;
+    padding-right: 240px; } }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mli-width {
+    padding-left: 50px;
+    padding-right: 50px; } }
+
+@media (max-width: 575.98px) {
+  .mli-width {
+    min-width: 575;
+    padding-left: 10px;
+    padding-right: 10px; } }
+
+.maker-body {
+  padding-top: 60px; }
+  .maker-body .dropdown-menu {
+    height: auto;
+    max-height: 400px;
+    overflow-x: hidden; }
+  .maker-body .profile .card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover; }
+  .maker-body .food .card-img-top {
+    width: 100%;
+    height: 14vw;
+    object-fit: cover; }
+  .maker-body .food .card {
+    height: 600px;
+    overflow: hidden; }
+  .maker-body .product .card-img-top {
+    width: 100%;
+    height: 14vw;
+    object-fit: cover; }
+  .maker-body .product .card {
+    height: 600px;
+    overflow: hidden; }
+
+#productImg {
+  max-width: 150px;
+  max-height: 150px; }
+
+@media (min-width: 1128px) {
+  .m-width {
+    padding-left: 80px !important;
+    padding-right: 80px !important; }
+    .m-width .card {
+      padding-left: 24px;
+      padding-right: 24px;
+      border: 0;
+      display: inline-block; } }
+
+@media (min-width: 744px) and (max-width: 1127.5px) {
+  .m-width {
+    padding-left: 48px !important;
+    padding-right: 48px !important; }
+    .m-width .card {
+      padding-left: 12px;
+      padding-right: 12px;
+      border: 0;
+      display: inline-block; } }
+
+@media (min-width: 0px) and (max-width: 743.5px) {
+  .m-width {
+    padding-left: 24px !important;
+    padding-right: 24px !important; }
+    .m-width .card {
+      padding-left: 8px;
+      padding-right: 8px;
+      border: 0;
+      display: inline-block; } }
+
+.makerupdateprofilelogo {
+  display: block;
+  max-width: 150px;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto; }
+
+.makerupdateprofile-body {
+  padding-top: 60px; }
+
+@media (min-width: 1200px) {
+  .mup-width {
+    padding-left: 400px;
+    padding-right: 400px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .mup-width {
+    padding-left: 320px;
+    padding-right: 320px; } }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .mup-width {
+    padding-left: 240px;
+    padding-right: 240px; } }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mup-width {
+    padding-left: 50px;
+    padding-right: 50px; } }
+
+@media (max-width: 575.98px) {
+  .mup-width {
+    min-width: 575;
+    padding-left: 10px;
+    padding-right: 10px; } }
+
+.navbar {
+  background-color: white; }
+  .navbar .nav-link {
+    color: #37444F; }
+  .navbar .nav-link:hover {
+    color: #2585fe; }
+
+.logout {
+  background-image: url("/images/logOut.jpg");
+  height: 100vh;
+  background-size: cover; }
+
+.lds-ellipsis {
+  display: inline-block;
+  position: relative;
+  top: 50vh;
+  left: 50vw;
+  width: 64px;
+  height: 64px; }
+
+.lds-ellipsis div {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: black;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0); }
+
+.lds-ellipsis div:nth-child(1) {
+  left: 6px;
+  animation: lds-ellipsis1 0.6s infinite; }
+
+.lds-ellipsis div:nth-child(2) {
+  left: 6px;
+  animation: lds-ellipsis2 0.6s infinite; }
+
+.lds-ellipsis div:nth-child(3) {
+  left: 26px;
+  animation: lds-ellipsis2 0.6s infinite; }
+
+.lds-ellipsis div:nth-child(4) {
+  left: 45px;
+  animation: lds-ellipsis3 0.6s infinite; }
+
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0); }
+  100% {
+    transform: scale(1); } }
+
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1); }
+  100% {
+    transform: scale(0); } }
+
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0); }
+  100% {
+    transform: translate(19px, 0); } }
+
+.homecook .jumbotron {
+  background-image: url("/images/cookingclass.jpg");
+  background-size: cover; }
+
+.mealkit .jumbotron {
+  background-image: url("/images/mealkit.jpg");
+  background-size: cover; }
+
+.caterer .jumbotron {
+  background-image: url("/images/caterer.jpg");
+  background-size: cover; }
+
+.hrColor {
+  color: white; }

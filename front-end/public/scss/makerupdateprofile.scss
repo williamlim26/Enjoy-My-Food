@@ -1,0 +1,48 @@
+.makerupdateprofilelogo{
+  display: block;
+  max-width: 150px;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.makerupdateprofile-body {
+  padding-top : 60px
+}
+
+
+@media (min-width: 1200px) {
+  .mup-width{
+    padding-left : 400px;
+    padding-right : 400px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .mup-width{
+    padding-left : 320px;
+    padding-right : 320px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .mup-width{
+    padding-left : 240px;
+    padding-right : 240px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mup-width{
+    padding-left : 50px;
+    padding-right : 50px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .mup-width{
+    min-width: 575;
+    padding-left : 10px;
+    padding-right : 10px;
+  }
+}
