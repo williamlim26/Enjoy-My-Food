@@ -17,7 +17,7 @@ class Nav extends Component{
 
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <form className="form-inline mr-auto">
-                    <input className="form-control" type="search" placeholder="Search" aria-label="Search"/>
+                    <input className="form-control" type="search" aria-label="Search"/>
                     <button className="btn btn-outline-primary">Search</button>
                 </form>
                 {!isMakerLoggedIn && !isEaterLoggedIn
